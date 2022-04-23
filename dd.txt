@@ -1,0 +1,5 @@
+
+<h1>Имя кандидата - {{ item["name"] }}</h1>
+<p>Позиция кандидата - {{ item["position"] }}</p><br>
+<img src='{{ item["picture"] }}' width=200/><br>
+<p>Навыки кандидата - {{ item["skills"] }}</p>

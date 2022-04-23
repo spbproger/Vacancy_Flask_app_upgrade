@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Информация о кандидате</title>
+</head>
+<body>
+
+
+{% for item in candidates %}
+    if {{item['id']}} == {{candidate_id}}
+        <h1>Имя кандидата - {{item["name"]}} </h1>
+        <p>Позиция кандидата - {{item["position"]}} </p><br>
+        <img src='{{item["picture"]}}' width=200/><br>
+        <p>Навыки кандидата - {{item["skills"]}} </p>
+    endif
+{% endfor %}
+
+
+</body>
+</html>
