@@ -14,7 +14,7 @@
     "picture": "https://picsum.photos/200",
     "position": "Delphi developer",
     "gender": "female",
-    "age": 26,
+    "age": 27,
     "skills": "Delphi, pascal, fortran, basic"
   },
   {
@@ -24,7 +24,7 @@
     "position": "Team lead",
     "gender": "male",
     "age": 33,
-    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+    "skills": "делегирование, использование календаря, обсуждение важных вопросов"
   },
   {
     "id": 4,
@@ -46,11 +46,11 @@
   },
   {
     "id": 6,
-    "name": "Austin Cochran",
+    "name": "Sheri Cochran",
     "picture": "https://picsum.photos/200",
     "position": "python-develop",
     "gender": "male",
-    "age": 26,
+    "age": 76,
     "skills": "python, html"
   },
   {
